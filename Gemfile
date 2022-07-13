@@ -16,4 +16,4 @@ gem "sinatra-activerecord", "~> 2.0"
 
 gem "nokogiri", "~> 1.10"
 
-gem "activerecord", "~> 5.2.3"
+gem "activerecord", "~> 5.2.8"
