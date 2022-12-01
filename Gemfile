@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem "require_all"
 
-gem "sinatra", "~> 2.0"
+gem "sinatra", "~> 2.2"
 
 gem "pry", "~> 0.13.1"
 
