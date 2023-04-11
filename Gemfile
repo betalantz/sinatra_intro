@@ -14,6 +14,6 @@ gem "sqlite3", "~> 1.4"
 
 gem "sinatra-activerecord", "~> 2.0"
 
-gem "nokogiri", "~> 1.10"
+gem "nokogiri", "~> 1.14"
 
 gem "activerecord", "~> 5.2.3"
